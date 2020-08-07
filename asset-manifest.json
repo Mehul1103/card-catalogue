@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/card-catalogue/static/css/main.85b247eb.chunk.css",
+    "main.js": "/card-catalogue/static/js/main.a5b0afd3.chunk.js",
+    "main.js.map": "/card-catalogue/static/js/main.a5b0afd3.chunk.js.map",
+    "runtime-main.js": "/card-catalogue/static/js/runtime-main.13564bf5.js",
+    "runtime-main.js.map": "/card-catalogue/static/js/runtime-main.13564bf5.js.map",
+    "static/js/2.cdce6472.chunk.js": "/card-catalogue/static/js/2.cdce6472.chunk.js",
+    "static/js/2.cdce6472.chunk.js.map": "/card-catalogue/static/js/2.cdce6472.chunk.js.map",
+    "index.html": "/card-catalogue/index.html",
+    "precache-manifest.ab57667b7765c66c23643e046882df53.js": "/card-catalogue/precache-manifest.ab57667b7765c66c23643e046882df53.js",
+    "service-worker.js": "/card-catalogue/service-worker.js",
+    "static/css/main.85b247eb.chunk.css.map": "/card-catalogue/static/css/main.85b247eb.chunk.css.map",
+    "static/js/2.cdce6472.chunk.js.LICENSE.txt": "/card-catalogue/static/js/2.cdce6472.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13564bf5.js",
+    "static/js/2.cdce6472.chunk.js",
+    "static/css/main.85b247eb.chunk.css",
+    "static/js/main.a5b0afd3.chunk.js"
+  ]
+}
